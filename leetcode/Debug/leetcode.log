@@ -1,2 +1,54 @@
 ﻿  Leetcode11.cpp
-  leetcode.vcxproj -> F:\Workspaces\VisualStudio\leetcode\Debug\leetcode.exe
+  Leetcode125.cpp
+  Leetcode167.cpp
+  Leetcode202.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode202.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Leetcode209.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode209.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode209.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode215.cpp
+  Leetcode242.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode242.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode242.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode242.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode26.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode26.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode27.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode27.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode283.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode283.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode13.cpp
+  Leetcode14.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode14.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode290.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode290.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode3.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode3.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode3.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode344.cpp
+  Leetcode345.cpp
+  Leetcode349.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode349.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode35.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode35.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode350.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode350.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode350.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode438.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode438.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode438.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode438.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode438.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode438.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode438.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  Leetcode75.cpp
+  Leetcode80.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode80.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode844.cpp
+f:\研究生\workspaces\visualstudio\leetcode\leetcode\leetcode844.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode88.cpp
+  QuickSort.cpp
+  正在生成代码...
+  leetcode.vcxproj -> F:\研究生\Workspaces\VisualStudio\leetcode\Debug\leetcode.exe

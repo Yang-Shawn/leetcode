@@ -121,17 +121,26 @@
     <ClCompile Include="Leetcode11.cpp" />
     <ClCompile Include="Leetcode125.cpp" />
     <ClCompile Include="Leetcode167.cpp" />
+    <ClCompile Include="Leetcode202.cpp" />
+    <ClCompile Include="Leetcode209.cpp" />
     <ClCompile Include="Leetcode215.cpp" />
+    <ClCompile Include="Leetcode242.cpp" />
     <ClCompile Include="Leetcode26.cpp" />
     <ClCompile Include="Leetcode27.cpp" />
     <ClCompile Include="Leetcode283.cpp" />
     <ClCompile Include="Leetcode13.cpp" />
     <ClCompile Include="Leetcode14.cpp" />
+    <ClCompile Include="Leetcode290.cpp" />
+    <ClCompile Include="Leetcode3.cpp" />
     <ClCompile Include="Leetcode344.cpp" />
     <ClCompile Include="Leetcode345.cpp" />
+    <ClCompile Include="Leetcode349.cpp" />
     <ClCompile Include="Leetcode35.cpp" />
+    <ClCompile Include="Leetcode350.cpp" />
+    <ClCompile Include="Leetcode438.cpp" />
     <ClCompile Include="Leetcode75.cpp" />
     <ClCompile Include="Leetcode80.cpp" />
+    <ClCompile Include="Leetcode844.cpp" />
     <ClCompile Include="Leetcode88.cpp" />
     <ClCompile Include="QuickSort.cpp" />
   </ItemGroup>
