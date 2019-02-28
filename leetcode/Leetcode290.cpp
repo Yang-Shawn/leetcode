@@ -32,10 +32,10 @@ public:
 	}
 };
 
-int main() {
-	string str1 = "aba";
-	string str2 = "dog cat cat";
-	bool res = Solution().wordPattern(str1, str2);
-	cout << res << endl;
-	return 0;
-}
+//int main() {
+//	string str1 = "aba";
+//	string str2 = "dog cat cat";
+//	bool res = Solution().wordPattern(str1, str2);
+//	cout << res << endl;
+//	return 0;
+//}

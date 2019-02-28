@@ -122,6 +122,7 @@
     <ClCompile Include="Leetcode125.cpp" />
     <ClCompile Include="Leetcode167.cpp" />
     <ClCompile Include="Leetcode202.cpp" />
+    <ClCompile Include="Leetcode206.cpp" />
     <ClCompile Include="Leetcode209.cpp" />
     <ClCompile Include="Leetcode215.cpp" />
     <ClCompile Include="Leetcode242.cpp" />
@@ -142,6 +143,7 @@
     <ClCompile Include="Leetcode80.cpp" />
     <ClCompile Include="Leetcode844.cpp" />
     <ClCompile Include="Leetcode88.cpp" />
+    <ClCompile Include="Leetcode92.cpp" />
     <ClCompile Include="QuickSort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
