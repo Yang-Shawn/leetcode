@@ -115,17 +115,30 @@
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
+      <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Leetcode11.cpp" />
     <ClCompile Include="Leetcode125.cpp" />
+    <ClCompile Include="Leetcode143.cpp" />
+    <ClCompile Include="Leetcode147.cpp" />
+    <ClCompile Include="Leetcode148.cpp" />
     <ClCompile Include="Leetcode167.cpp" />
+    <ClCompile Include="Leetcode19.cpp" />
+    <ClCompile Include="Leetcode2.cpp" />
+    <ClCompile Include="Leetcode20.cpp" />
     <ClCompile Include="Leetcode202.cpp" />
+    <ClCompile Include="Leetcode203.cpp" />
     <ClCompile Include="Leetcode206.cpp" />
     <ClCompile Include="Leetcode209.cpp" />
+    <ClCompile Include="Leetcode21.cpp" />
     <ClCompile Include="Leetcode215.cpp" />
+    <ClCompile Include="Leetcode234.cpp" />
+    <ClCompile Include="Leetcode237.cpp" />
+    <ClCompile Include="Leetcode24.cpp" />
     <ClCompile Include="Leetcode242.cpp" />
+    <ClCompile Include="Leetcode25.cpp" />
     <ClCompile Include="Leetcode26.cpp" />
     <ClCompile Include="Leetcode27.cpp" />
     <ClCompile Include="Leetcode283.cpp" />
@@ -133,15 +146,21 @@
     <ClCompile Include="Leetcode14.cpp" />
     <ClCompile Include="Leetcode290.cpp" />
     <ClCompile Include="Leetcode3.cpp" />
+    <ClCompile Include="Leetcode328.cpp" />
     <ClCompile Include="Leetcode344.cpp" />
     <ClCompile Include="Leetcode345.cpp" />
     <ClCompile Include="Leetcode349.cpp" />
     <ClCompile Include="Leetcode35.cpp" />
     <ClCompile Include="Leetcode350.cpp" />
     <ClCompile Include="Leetcode438.cpp" />
+    <ClCompile Include="Leetcode445.cpp" />
+    <ClCompile Include="Leetcode61.cpp" />
     <ClCompile Include="Leetcode75.cpp" />
     <ClCompile Include="Leetcode80.cpp" />
+    <ClCompile Include="Leetcode82.cpp" />
+    <ClCompile Include="Leetcode83.cpp" />
     <ClCompile Include="Leetcode844.cpp" />
+    <ClCompile Include="Leetcode86.cpp" />
     <ClCompile Include="Leetcode88.cpp" />
     <ClCompile Include="Leetcode92.cpp" />
     <ClCompile Include="QuickSort.cpp" />

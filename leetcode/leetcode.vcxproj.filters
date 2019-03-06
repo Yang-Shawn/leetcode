@@ -96,5 +96,59 @@
     <ClCompile Include="Leetcode92.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Leetcode83.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode86.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode328.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode445.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode203.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode82.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode147.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode148.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode237.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode61.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode143.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode234.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -21,6 +21,16 @@ ListNode* creatListNode(int arr[], int n) {
 	return head;
 }
 
+void deleteListNode(ListNode* head) {
+	ListNode* curNode = head;
+	while (curNode != NULL) {
+		ListNode* delNode = curNode;
+		curNode = curNode->next;
+		delete delNode;
+	}
+	return;
+}
+
 void printListNode(ListNode* head) {
 	ListNode* curNode = head;
 	while (curNode != NULL) {
@@ -78,5 +88,7 @@ public:
 //	ListNode* head2 = Solution().reverseBetween(head, m, n);
 //	printListNode(head2);
 //
+//    deleteListNode(head2);
+//	getchar();
 //	return 0;
 //}
