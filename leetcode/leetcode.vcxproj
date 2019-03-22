@@ -119,13 +119,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Leetcode100.cpp" />
+    <ClCompile Include="Leetcode102.cpp" />
+    <ClCompile Include="Leetcode104.cpp" />
+    <ClCompile Include="Leetcode107.cpp" />
     <ClCompile Include="Leetcode11.cpp" />
+    <ClCompile Include="Leetcode110.cpp" />
+    <ClCompile Include="Leetcode111.cpp" />
+    <ClCompile Include="Leetcode112.cpp" />
     <ClCompile Include="Leetcode125.cpp" />
-    <ClCompile Include="Leetcode143.cpp" />
-    <ClCompile Include="Leetcode147.cpp" />
-    <ClCompile Include="Leetcode148.cpp" />
+    <ClCompile Include="Leetcode144.cpp" />
+    <ClCompile Include="Leetcode145.cpp" />
     <ClCompile Include="Leetcode167.cpp" />
     <ClCompile Include="Leetcode19.cpp" />
+    <ClCompile Include="Leetcode199.cpp" />
     <ClCompile Include="Leetcode2.cpp" />
     <ClCompile Include="Leetcode20.cpp" />
     <ClCompile Include="Leetcode202.cpp" />
@@ -134,11 +141,9 @@
     <ClCompile Include="Leetcode209.cpp" />
     <ClCompile Include="Leetcode21.cpp" />
     <ClCompile Include="Leetcode215.cpp" />
-    <ClCompile Include="Leetcode234.cpp" />
-    <ClCompile Include="Leetcode237.cpp" />
     <ClCompile Include="Leetcode24.cpp" />
     <ClCompile Include="Leetcode242.cpp" />
-    <ClCompile Include="Leetcode25.cpp" />
+    <ClCompile Include="Leetcode257.cpp" />
     <ClCompile Include="Leetcode26.cpp" />
     <ClCompile Include="Leetcode27.cpp" />
     <ClCompile Include="Leetcode283.cpp" />
@@ -153,8 +158,6 @@
     <ClCompile Include="Leetcode35.cpp" />
     <ClCompile Include="Leetcode350.cpp" />
     <ClCompile Include="Leetcode438.cpp" />
-    <ClCompile Include="Leetcode445.cpp" />
-    <ClCompile Include="Leetcode61.cpp" />
     <ClCompile Include="Leetcode75.cpp" />
     <ClCompile Include="Leetcode80.cpp" />
     <ClCompile Include="Leetcode82.cpp" />
@@ -163,6 +166,7 @@
     <ClCompile Include="Leetcode86.cpp" />
     <ClCompile Include="Leetcode88.cpp" />
     <ClCompile Include="Leetcode92.cpp" />
+    <ClCompile Include="Leetcode94.cpp" />
     <ClCompile Include="QuickSort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,7 +1,84 @@
-﻿  Leetcode203.cpp
+﻿  Leetcode100.cpp
+  Leetcode101.cpp
+  Leetcode102.cpp
+  Leetcode103.cpp
+  Leetcode104.cpp
+  Leetcode107.cpp
+  Leetcode11.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode11.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode110.cpp
+  Leetcode111.cpp
+  Leetcode112.cpp
+  Leetcode125.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode125.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode143.cpp
+  Leetcode144.cpp
+  Leetcode145.cpp
+  Leetcode147.cpp
+  Leetcode148.cpp
+  Leetcode150.cpp
+  Leetcode167.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode167.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode19.cpp
+  Leetcode199.cpp
+  正在编译...
+  Leetcode2.cpp
+  Leetcode20.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode20.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode202.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode202.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Leetcode203.cpp
+  Leetcode206.cpp
+  Leetcode209.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode209.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode21.cpp
+  Leetcode215.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode215.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode215.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode234.cpp
+  Leetcode237.cpp
+  Leetcode24.cpp
+  Leetcode242.cpp
+  Leetcode25.cpp
+  Leetcode257.cpp
+  Leetcode26.cpp
+  Leetcode27.cpp
+  Leetcode283.cpp
+  Leetcode13.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode13.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode14.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode14.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode290.cpp
+  正在编译...
+  Leetcode3.cpp
+  Leetcode328.cpp
+  Leetcode341.cpp
+  Leetcode344.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode344.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode345.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode345.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode349.cpp
+  Leetcode35.cpp
+  Leetcode350.cpp
+  Leetcode438.cpp
+  Leetcode445.cpp
+  Leetcode61.cpp
+  Leetcode70.cpp
+  Leetcode75.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode75.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode80.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode80.cpp(9): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode82.cpp
+  Leetcode83.cpp
+  Leetcode844.cpp
+f:\workspaces\visualstudio\leetcode\leetcode\leetcode844.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode86.cpp
+  Leetcode88.cpp
+  Leetcode92.cpp
+  正在编译...
+  Leetcode94.cpp
+  QuickSort.cpp
   正在生成代码
-  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   leetcode.vcxproj -> F:\Workspaces\VisualStudio\leetcode\x64\Release\leetcode.exe
