@@ -120,6 +120,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Leetcode100.cpp" />
+    <ClCompile Include="Leetcode101.cpp" />
     <ClCompile Include="Leetcode102.cpp" />
     <ClCompile Include="Leetcode104.cpp" />
     <ClCompile Include="Leetcode107.cpp" />
@@ -132,6 +133,7 @@
     <ClCompile Include="Leetcode145.cpp" />
     <ClCompile Include="Leetcode167.cpp" />
     <ClCompile Include="Leetcode19.cpp" />
+    <ClCompile Include="Leetcode198.cpp" />
     <ClCompile Include="Leetcode199.cpp" />
     <ClCompile Include="Leetcode2.cpp" />
     <ClCompile Include="Leetcode20.cpp" />
@@ -151,20 +153,32 @@
     <ClCompile Include="Leetcode14.cpp" />
     <ClCompile Include="Leetcode290.cpp" />
     <ClCompile Include="Leetcode3.cpp" />
+    <ClCompile Include="Leetcode300.cpp" />
+    <ClCompile Include="Leetcode322.cpp" />
     <ClCompile Include="Leetcode328.cpp" />
     <ClCompile Include="Leetcode344.cpp" />
     <ClCompile Include="Leetcode345.cpp" />
     <ClCompile Include="Leetcode349.cpp" />
     <ClCompile Include="Leetcode35.cpp" />
     <ClCompile Include="Leetcode350.cpp" />
+    <ClCompile Include="Leetcode39.cpp" />
+    <ClCompile Include="Leetcode40.cpp" />
+    <ClCompile Include="Leetcode416.cpp" />
     <ClCompile Include="Leetcode438.cpp" />
+    <ClCompile Include="Leetcode445.cpp" />
+    <ClCompile Include="Leetcode46.cpp" />
+    <ClCompile Include="Leetcode47.cpp" />
+    <ClCompile Include="Leetcode51.cpp" />
+    <ClCompile Include="Leetcode52.cpp" />
     <ClCompile Include="Leetcode75.cpp" />
+    <ClCompile Include="Leetcode79.cpp" />
     <ClCompile Include="Leetcode80.cpp" />
     <ClCompile Include="Leetcode82.cpp" />
     <ClCompile Include="Leetcode83.cpp" />
     <ClCompile Include="Leetcode844.cpp" />
     <ClCompile Include="Leetcode86.cpp" />
     <ClCompile Include="Leetcode88.cpp" />
+    <ClCompile Include="Leetcode90.cpp" />
     <ClCompile Include="Leetcode92.cpp" />
     <ClCompile Include="Leetcode94.cpp" />
     <ClCompile Include="QuickSort.cpp" />
